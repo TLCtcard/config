@@ -1,19 +1,7 @@
 [{
   "period": "第一期",
-  "sellerAddr": "0x7A2a21a777265e8192230BD433864db14b5c2FEa",
-  "nftAddr": "0xd7E5752DBD8d05C6B589DEF76F4Ebd68dE5216c2",
-  "usdtAddr": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96"
- },
- { 
-  "period": "第二期",
-  "sellerAddr": "0xE72C6A691ca60E368d3cD7D51E16CFd9B34Df840",
-  "nftAddr": "0xd7E5752DBD8d05C6B589DEF76F4Ebd68dE5216c2",
-  "usdtAddr": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96"
- },
- { 
-  "period": "第三期",
-  "sellerAddr": "0xAc3F2a529B9e6270AEF301B2c93f4cda25185cd8",
-  "nftAddr": "0xd7E5752DBD8d05C6B589DEF76F4Ebd68dE5216c2",
-  "usdtAddr": "0x3f1dA81F9Cae70B657CCAeF93B9C809781b43E96"
+  "sellerAddr": "0xa5C832090cAc1f7EBdc568345A6c7ca1BE8cBd89",
+  "nftAddr": "0x0fEeD8be1a562d3640b656e5976F3b1e642A5D99",
+  "usdtAddr": "0xdac17f958d2ee523a2206206994597c13d831ec7"
  }
 ]
